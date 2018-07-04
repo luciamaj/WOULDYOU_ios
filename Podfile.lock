@@ -1,0 +1,110 @@
+PODS:
+  - AFDateHelper (4.2.7)
+  - Alamofire (4.7.2)
+  - ChameleonFramework/Default (2.1.0)
+  - ChameleonFramework/Swift (2.1.0):
+    - ChameleonFramework/Default
+  - CodableAlamofire (1.1.0):
+    - Alamofire (~> 4.0)
+  - DZNEmptyDataSet (1.8.1)
+  - Eureka (4.2.0)
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.7.0):
+    - GoogleMaps/Base (= 2.7.0)
+  - JJFloatingActionButton (0.9.2)
+  - KeyboardAdjuster (2.0.7)
+  - Pages (2.0.2)
+  - Presentation (4.1.2):
+    - Pages (~> 2.0)
+  - PureLayout (3.0.2)
+  - SDWebImage (4.4.1):
+    - SDWebImage/Core (= 4.4.1)
+  - SDWebImage/Core (4.4.1)
+  - SegueAddition (1.2.0)
+  - SwiftyJSON (4.1.0)
+  - SwiftyPlistManager (1.0.2)
+  - SwiftyUserDefaults (3.0.1)
+  - Toucan (1.0.0)
+  - ViewAnimator (2.1.1)
+
+DEPENDENCIES:
+  - AFDateHelper (~> 4.2.2)
+  - Alamofire (~> 4.7)
+  - ChameleonFramework/Swift (from `https://github.com/ViccAlexander/Chameleon.git`)
+  - CodableAlamofire
+  - DZNEmptyDataSet
+  - Eureka
+  - GoogleMaps
+  - GooglePlaces
+  - JJFloatingActionButton
+  - KeyboardAdjuster (~> 2)
+  - Presentation
+  - PureLayout
+  - SDWebImage (~> 4.0)
+  - SegueAddition
+  - SwiftyJSON
+  - SwiftyPlistManager
+  - SwiftyUserDefaults
+  - Toucan
+  - ViewAnimator
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFDateHelper
+    - Alamofire
+    - CodableAlamofire
+    - DZNEmptyDataSet
+    - Eureka
+    - GoogleMaps
+    - GooglePlaces
+    - JJFloatingActionButton
+    - KeyboardAdjuster
+    - Pages
+    - Presentation
+    - PureLayout
+    - SDWebImage
+    - SegueAddition
+    - SwiftyJSON
+    - SwiftyPlistManager
+    - SwiftyUserDefaults
+    - Toucan
+    - ViewAnimator
+
+EXTERNAL SOURCES:
+  ChameleonFramework:
+    :git: https://github.com/ViccAlexander/Chameleon.git
+
+CHECKOUT OPTIONS:
+  ChameleonFramework:
+    :commit: 6dd284bde21ea2e7f9fd89bc36f40df16e16369d
+    :git: https://github.com/ViccAlexander/Chameleon.git
+
+SPEC CHECKSUMS:
+  AFDateHelper: 4ad66fb19503041fbba8a3018cb7ef9c71b2ff88
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  CodableAlamofire: e2d2edcec7cf413f7862c30c8fa98eded27a83f9
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  Eureka: 0748c7bbb2560130e43c7bfa83e99c98854a1f42
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  GooglePlaces: 3d06e6c99654545b4738ce49648745779c25f2ef
+  JJFloatingActionButton: b3ac139e2e7568d01b7604d46cc287ff6a852210
+  KeyboardAdjuster: d163c8fa0205fb12376c0a5cdc0d06dc7057cb6f
+  Pages: 5564ac6035c48fef7a837049314f57507d263b11
+  Presentation: 84974970fa451c89147d2bed4d5d50f857e71761
+  PureLayout: 4d550abe49a94f24c2808b9b95db9131685fe4cd
+  SDWebImage: 47e9b5b925cbce75946c23f0c42dd19464189af4
+  SegueAddition: b0d69d38d5e40ab5a55781d87f9bfd12baf6d47d
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+  SwiftyPlistManager: 5895924cccb7fe28deccbe14890e8aed78ae78ae
+  SwiftyUserDefaults: 3d273b1739b68ada3145dc754a70ec775bc5c8be
+  Toucan: 61867fb10948c02e9804280a95eb183e98eac97a
+  ViewAnimator: 43c31539508d995ea2c5e98338211f7c009b358f
+
+PODFILE CHECKSUM: 9b3947a4091580a2d385d756a2601164a2413c68
+
+COCOAPODS: 1.5.3

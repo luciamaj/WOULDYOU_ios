@@ -1,0 +1,6 @@
+framework module SegueAddition {
+  umbrella header "SegueAddition-umbrella.h"
+
+  export *
+  module * { export * }
+}
